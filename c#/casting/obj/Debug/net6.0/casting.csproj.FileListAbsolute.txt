@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\Curso\c#\casting\bin\Debug\net6.0\casting.exe
+C:\Users\breno\OneDrive\Documentos\Curso\c#\casting\bin\Debug\net6.0\casting.deps.json
+C:\Users\breno\OneDrive\Documentos\Curso\c#\casting\bin\Debug\net6.0\casting.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\Curso\c#\casting\bin\Debug\net6.0\casting.dll
+C:\Users\breno\OneDrive\Documentos\Curso\c#\casting\bin\Debug\net6.0\casting.pdb
+C:\Users\breno\OneDrive\Documentos\Curso\c#\casting\obj\Debug\net6.0\casting.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\Curso\c#\casting\obj\Debug\net6.0\casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\Curso\c#\casting\obj\Debug\net6.0\casting.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\Curso\c#\casting\obj\Debug\net6.0\casting.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\Curso\c#\casting\obj\Debug\net6.0\casting.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\Curso\c#\casting\obj\Debug\net6.0\casting.dll
+C:\Users\breno\OneDrive\Documentos\Curso\c#\casting\obj\Debug\net6.0\refint\casting.dll
+C:\Users\breno\OneDrive\Documentos\Curso\c#\casting\obj\Debug\net6.0\casting.pdb
+C:\Users\breno\OneDrive\Documentos\Curso\c#\casting\obj\Debug\net6.0\casting.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\Curso\c#\casting\obj\Debug\net6.0\ref\casting.dll
