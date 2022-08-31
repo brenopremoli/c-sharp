@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
+/*Escreva um programa que calcule o fatorial de 10. */
+
 int n = 10;
 long fat = 1;
 int cont = 1;
