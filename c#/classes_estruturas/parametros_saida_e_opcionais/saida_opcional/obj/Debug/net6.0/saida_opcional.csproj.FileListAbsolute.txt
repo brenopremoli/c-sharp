@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\parametros_saida_e_opcionais\saida_opcional\bin\Debug\net6.0\saida_opcional.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\parametros_saida_e_opcionais\saida_opcional\bin\Debug\net6.0\saida_opcional.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\parametros_saida_e_opcionais\saida_opcional\bin\Debug\net6.0\saida_opcional.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\parametros_saida_e_opcionais\saida_opcional\bin\Debug\net6.0\saida_opcional.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\parametros_saida_e_opcionais\saida_opcional\bin\Debug\net6.0\saida_opcional.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\parametros_saida_e_opcionais\saida_opcional\obj\Debug\net6.0\saida_opcional.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\parametros_saida_e_opcionais\saida_opcional\obj\Debug\net6.0\saida_opcional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\parametros_saida_e_opcionais\saida_opcional\obj\Debug\net6.0\saida_opcional.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\parametros_saida_e_opcionais\saida_opcional\obj\Debug\net6.0\saida_opcional.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\parametros_saida_e_opcionais\saida_opcional\obj\Debug\net6.0\saida_opcional.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\parametros_saida_e_opcionais\saida_opcional\obj\Debug\net6.0\saida_opcional.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\parametros_saida_e_opcionais\saida_opcional\obj\Debug\net6.0\refint\saida_opcional.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\parametros_saida_e_opcionais\saida_opcional\obj\Debug\net6.0\saida_opcional.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\parametros_saida_e_opcionais\saida_opcional\obj\Debug\net6.0\saida_opcional.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\parametros_saida_e_opcionais\saida_opcional\obj\Debug\net6.0\ref\saida_opcional.dll
