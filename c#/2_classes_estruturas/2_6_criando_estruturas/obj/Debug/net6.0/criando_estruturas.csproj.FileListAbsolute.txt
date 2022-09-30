@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\criando_estruturas\bin\Debug\net6.0\criando_estruturas.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\criando_estruturas\bin\Debug\net6.0\criando_estruturas.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\criando_estruturas\bin\Debug\net6.0\criando_estruturas.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\criando_estruturas\bin\Debug\net6.0\criando_estruturas.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\criando_estruturas\bin\Debug\net6.0\criando_estruturas.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\criando_estruturas\obj\Debug\net6.0\criando_estruturas.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\criando_estruturas\obj\Debug\net6.0\criando_estruturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\criando_estruturas\obj\Debug\net6.0\criando_estruturas.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\criando_estruturas\obj\Debug\net6.0\criando_estruturas.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\criando_estruturas\obj\Debug\net6.0\criando_estruturas.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\criando_estruturas\obj\Debug\net6.0\criando_estruturas.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\criando_estruturas\obj\Debug\net6.0\refint\criando_estruturas.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\criando_estruturas\obj\Debug\net6.0\criando_estruturas.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\criando_estruturas\obj\Debug\net6.0\criando_estruturas.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\criando_estruturas\obj\Debug\net6.0\ref\criando_estruturas.dll

@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\nullabe_types_e_operador\bin\Debug\net6.0\nullabe_types_e_operador.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\nullabe_types_e_operador\bin\Debug\net6.0\nullabe_types_e_operador.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\nullabe_types_e_operador\bin\Debug\net6.0\nullabe_types_e_operador.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\nullabe_types_e_operador\bin\Debug\net6.0\nullabe_types_e_operador.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\nullabe_types_e_operador\bin\Debug\net6.0\nullabe_types_e_operador.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\nullabe_types_e_operador\obj\Debug\net6.0\nullabe_types_e_operador.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\nullabe_types_e_operador\obj\Debug\net6.0\nullabe_types_e_operador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\nullabe_types_e_operador\obj\Debug\net6.0\nullabe_types_e_operador.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\nullabe_types_e_operador\obj\Debug\net6.0\nullabe_types_e_operador.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\nullabe_types_e_operador\obj\Debug\net6.0\nullabe_types_e_operador.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\nullabe_types_e_operador\obj\Debug\net6.0\nullabe_types_e_operador.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\nullabe_types_e_operador\obj\Debug\net6.0\refint\nullabe_types_e_operador.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\nullabe_types_e_operador\obj\Debug\net6.0\nullabe_types_e_operador.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\nullabe_types_e_operador\obj\Debug\net6.0\nullabe_types_e_operador.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\classes_estruturas\nullabe_types_e_operador\obj\Debug\net6.0\ref\nullabe_types_e_operador.dll

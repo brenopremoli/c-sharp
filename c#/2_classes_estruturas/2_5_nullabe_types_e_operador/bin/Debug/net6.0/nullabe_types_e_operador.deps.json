@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "nullabe_types_e_operador/1.0.0": {
+        "runtime": {
+          "nullabe_types_e_operador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nullabe_types_e_operador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
