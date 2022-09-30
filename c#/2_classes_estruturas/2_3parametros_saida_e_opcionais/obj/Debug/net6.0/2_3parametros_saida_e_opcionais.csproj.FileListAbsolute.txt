@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\2_classes_estruturas\2_3parametros_saida_e_opcionais\bin\Debug\net6.0\2_3parametros_saida_e_opcionais.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\2_classes_estruturas\2_3parametros_saida_e_opcionais\bin\Debug\net6.0\2_3parametros_saida_e_opcionais.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\2_classes_estruturas\2_3parametros_saida_e_opcionais\bin\Debug\net6.0\2_3parametros_saida_e_opcionais.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\2_classes_estruturas\2_3parametros_saida_e_opcionais\bin\Debug\net6.0\2_3parametros_saida_e_opcionais.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\2_classes_estruturas\2_3parametros_saida_e_opcionais\bin\Debug\net6.0\2_3parametros_saida_e_opcionais.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\2_classes_estruturas\2_3parametros_saida_e_opcionais\obj\Debug\net6.0\2_3parametros_saida_e_opcionais.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\2_classes_estruturas\2_3parametros_saida_e_opcionais\obj\Debug\net6.0\2_3parametros_saida_e_opcionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\2_classes_estruturas\2_3parametros_saida_e_opcionais\obj\Debug\net6.0\2_3parametros_saida_e_opcionais.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\2_classes_estruturas\2_3parametros_saida_e_opcionais\obj\Debug\net6.0\2_3parametros_saida_e_opcionais.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\2_classes_estruturas\2_3parametros_saida_e_opcionais\obj\Debug\net6.0\2_3parametros_saida_e_opcionais.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\2_classes_estruturas\2_3parametros_saida_e_opcionais\obj\Debug\net6.0\2_3parametros_saida_e_opcionais.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\2_classes_estruturas\2_3parametros_saida_e_opcionais\obj\Debug\net6.0\refint\2_3parametros_saida_e_opcionais.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\2_classes_estruturas\2_3parametros_saida_e_opcionais\obj\Debug\net6.0\2_3parametros_saida_e_opcionais.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\2_classes_estruturas\2_3parametros_saida_e_opcionais\obj\Debug\net6.0\2_3parametros_saida_e_opcionais.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\2_classes_estruturas\2_3parametros_saida_e_opcionais\obj\Debug\net6.0\ref\2_3parametros_saida_e_opcionais.dll
