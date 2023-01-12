@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula41\obj\Debug\net6.0\aula41.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula41\obj\Debug\net6.0\aula41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula41\obj\Debug\net6.0\aula41.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula41\obj\Debug\net6.0\aula41.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula41\obj\Debug\net6.0\aula41.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula41\bin\Debug\net6.0\aula41.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula41\bin\Debug\net6.0\aula41.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula41\bin\Debug\net6.0\aula41.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula41\bin\Debug\net6.0\aula41.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula41\bin\Debug\net6.0\aula41.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula41\obj\Debug\net6.0\aula41.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula41\obj\Debug\net6.0\refint\aula41.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula41\obj\Debug\net6.0\aula41.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula41\obj\Debug\net6.0\aula41.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula41\obj\Debug\net6.0\ref\aula41.dll
