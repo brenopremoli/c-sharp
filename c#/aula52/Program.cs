@@ -1,4 +1,4 @@
-﻿// Exceções (erro) - Try Catch Finally -> tratamento de exceções
+﻿// Exceções (erro) - Try Catch Finally 1 -> tratamento de exceções
 
 // Exceção -> derivada da class "exception" 
 
