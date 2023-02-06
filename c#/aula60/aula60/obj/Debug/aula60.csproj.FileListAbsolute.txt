@@ -1,0 +1,11 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula60\aula60\bin\Debug\aula60.exe.config
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula60\aula60\bin\Debug\aula60.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula60\aula60\bin\Debug\aula60.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula60\aula60\obj\Debug\aula60.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula60\aula60\obj\Debug\aula60.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula60\aula60\obj\Debug\aula60.Properties.Resources.resources
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula60\aula60\obj\Debug\aula60.csproj.GenerateResource.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula60\aula60\obj\Debug\aula60.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula60\aula60\obj\Debug\aula60.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula60\aula60\obj\Debug\aula60.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\aula60\aula60\obj\Debug\aula60.F_Principal.resources
