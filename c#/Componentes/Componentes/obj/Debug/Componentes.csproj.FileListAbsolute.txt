@@ -1,0 +1,11 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\Componentes\Componentes\bin\Debug\Componentes.exe.config
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\Componentes\Componentes\bin\Debug\Componentes.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\Componentes\Componentes\bin\Debug\Componentes.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\Componentes\Componentes\obj\Debug\Componentes.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\Componentes\Componentes\obj\Debug\Componentes.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\Componentes\Componentes\obj\Debug\Componentes.F_Principal.resources
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\Componentes\Componentes\obj\Debug\Componentes.Properties.Resources.resources
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\Componentes\Componentes\obj\Debug\Componentes.csproj.GenerateResource.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\Componentes\Componentes\obj\Debug\Componentes.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\Componentes\Componentes\obj\Debug\Componentes.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\c-sharp\c#\Componentes\Componentes\obj\Debug\Componentes.pdb
