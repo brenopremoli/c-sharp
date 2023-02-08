@@ -34,6 +34,7 @@
             this.tb_veiculo = new System.Windows.Forms.TextBox();
             this.tb_lista = new System.Windows.Forms.TextBox();
             this.lb_digite = new System.Windows.Forms.Label();
+            this.btn_mostrar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -80,6 +81,7 @@
             this.tb_lista.Location = new System.Drawing.Point(12, 51);
             this.tb_lista.Multiline = true;
             this.tb_lista.Name = "tb_lista";
+            this.tb_lista.ReadOnly = true;
             this.tb_lista.Size = new System.Drawing.Size(181, 229);
             this.tb_lista.TabIndex = 4;
             // 
@@ -92,11 +94,22 @@
             this.lb_digite.TabIndex = 5;
             this.lb_digite.Text = "Digite um veículo:";
             // 
+            // btn_mostrar
+            // 
+            this.btn_mostrar.Location = new System.Drawing.Point(15, 315);
+            this.btn_mostrar.Name = "btn_mostrar";
+            this.btn_mostrar.Size = new System.Drawing.Size(178, 23);
+            this.btn_mostrar.TabIndex = 6;
+            this.btn_mostrar.Text = "Mostrar Veículos";
+            this.btn_mostrar.UseVisualStyleBackColor = true;
+            this.btn_mostrar.Click += new System.EventHandler(this.btn_mostrar_Click);
+            // 
             // F_Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(207, 322);
+            this.ClientSize = new System.Drawing.Size(207, 346);
+            this.Controls.Add(this.btn_mostrar);
             this.Controls.Add(this.lb_digite);
             this.Controls.Add(this.tb_lista);
             this.Controls.Add(this.tb_veiculo);
@@ -121,6 +134,7 @@
         private System.Windows.Forms.TextBox tb_veiculo;
         private System.Windows.Forms.TextBox tb_lista;
         private System.Windows.Forms.Label lb_digite;
+        private System.Windows.Forms.Button btn_mostrar;
     }
 }
 
