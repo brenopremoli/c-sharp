@@ -28,28 +28,24 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.tb_lista = new System.Windows.Forms.TextBox();
+            this.tb_lista1 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
-            // tb_lista
+            // tb_lista1
             // 
-            this.tb_lista.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.tb_lista.Location = new System.Drawing.Point(12, 12);
-            this.tb_lista.Multiline = true;
-            this.tb_lista.Name = "tb_lista";
-            this.tb_lista.Size = new System.Drawing.Size(329, 305);
-            this.tb_lista.TabIndex = 0;
+            this.tb_lista1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tb_lista1.Location = new System.Drawing.Point(12, 12);
+            this.tb_lista1.Multiline = true;
+            this.tb_lista1.Name = "tb_lista1";
+            this.tb_lista1.Size = new System.Drawing.Size(260, 237);
+            this.tb_lista1.TabIndex = 0;
             // 
             // F_Veiculos
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(353, 329);
-            this.Controls.Add(this.tb_lista);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.Controls.Add(this.tb_lista1);
             this.Name = "F_Veiculos";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Lista de Veículos";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.F_Veiculos_FormClosed);
             this.Load += new System.EventHandler(this.F_Veiculos_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -58,6 +54,7 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox tb_lista;
+        public System.Windows.Forms.TextBox tb_lista;
+        private System.Windows.Forms.TextBox tb_lista1;
     }
 }

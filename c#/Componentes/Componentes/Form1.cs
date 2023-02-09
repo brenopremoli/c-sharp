@@ -12,9 +12,11 @@ namespace Componentes
 {
     public partial class F_Principal : Form
     {
+        public int num;
         public F_Principal()
         {
             InitializeComponent();
+            num = 0;
         }
 
         private void btn_adicione_Click(object sender, EventArgs e)
@@ -26,7 +28,7 @@ namespace Componentes
                 return;
             }
 
-            tb_lista.Text += tb_veiculo.Text + ", ";
+            tb_lista.Text += tb_veiculo.Text + ". ";
             //tb_lista.Text = tb_veiculo.Text + tb_lista.Text;
 
             tb_veiculo.Clear();
@@ -42,9 +44,14 @@ namespace Componentes
 
         private void btn_mostrar_Click(object sender, EventArgs e)
         {
-            F_Veiculos f_Veiculos = new F_Veiculos(tb_lista.Text);
+            F_Veiculos f_Veiculos = new F_Veiculos(tb_lista.Text, this);
             //f_Veiculos.Show();
             f_Veiculos.ShowDialog();
+        }
+
+        private void btn_valNum_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(num.ToString());
         }
     }
 }
